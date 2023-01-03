@@ -51,3 +51,12 @@ In the gif I am configuring agents in the admin panal.
 In the gif I practice configuring users(customers) 
 </p>
 <br />
+
+</p>
+
+![post install setup part 5](https://user-images.githubusercontent.com/58159183/210302762-e34fa9d0-6a56-43e7-a5e5-09ea4c8731b2.gif)
+<p>
+  
+  In this gif I configure SLA in the admin panael and configure help topics 
+  
+
